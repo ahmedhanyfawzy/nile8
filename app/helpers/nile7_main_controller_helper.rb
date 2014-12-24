@@ -1,0 +1,2 @@
+module Nile7MainControllerHelper
+end
