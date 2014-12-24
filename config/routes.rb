@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :posts
+
   get 'nile7_main_controller/home'
 
   get 'nile7_main_controller/services'
